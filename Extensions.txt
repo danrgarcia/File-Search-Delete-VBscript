@@ -1,0 +1,1 @@
+txt,tmp,csv,bmp
